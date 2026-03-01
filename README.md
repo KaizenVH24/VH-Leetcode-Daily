@@ -29,10 +29,6 @@ The goal is not just to solve problems — but to deeply understand patterns, tr
 Consistency beats intensity.
 This repository is a reflection of disciplined effort, structured thinking, and continuous learning.
 
----
-
-Happy Coding 💻✨
-
 --- 
 
 ## My Profiles:
